@@ -1,22 +1,32 @@
 ## Description of the Feature
 
-Please provide a brief summary of the new feature added in this pull request. Explain the purpose and value of this feature.
+Provide a brief summary of the new feature or update to the existing component.
 
 ## Implementation Details
 
-Describe the implementation of the feature. Include any design decisions, algorithms, or patterns used.
+Outline the key steps taken in the implementation. Include any design decisions or patterns used.
 
-## How to Test
+### For New or Updated Components
 
-Provide steps to test the new feature. Include any relevant test cases or scenarios.
+- [ ] Committed created/modified files.
+- [ ] Added/updated Storybook stories.
+- [ ] Added/updated unit tests.
+- [ ] Tested in the Storybook library.
+- [ ] Tested as a dependency in an application.
+- [ ] Verified successful library build.
+- [ ] Updated library version.
 
-1. Step 1
-2. Step 2
-3. Step 3
+### For Library Improvements
+
+- [ ] Committed changes.
+- [ ] Tested in the Storybook library.
+- [ ] Tested as a dependency in an application.
+- [ ] Verified successful library build.
+- [ ] Updated library version.
 
 ## Checklist
 
-- [ ] The feature is implemented as intended.
-- [ ] Relevant tests have been updated or added.
-- [ ] Documentation has been updated to reflect the new feature.
-- [ ] All tests pass without new warnings or errors.
+- [ ] The implementation follows the steps outlined above.
+- [ ] All relevant tests have been updated.
+- [ ] The feature or improvement is functioning as expected.
+- [ ] The library build is successful without errors.
